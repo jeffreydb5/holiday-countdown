@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "holiday-countdown",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,6 @@
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "template",
     "webpack",
     "react"
   ],
